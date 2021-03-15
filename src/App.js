@@ -8,12 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Ini aplikasi react pertama saya semoga bisa berkembang...</p>
         <p>Nama Saya EKo Cahyanto</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a className="App-link" target="_blank" rel="noopener noreferrer">
           Learn React
         </a>
       </header>
