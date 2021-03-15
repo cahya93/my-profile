@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Ini aplikasi react pertama saya semoga bisa berkembang...</p>
+        <p>Nama Saya EKo Cahyanto</p>
         <a
           className="App-link"
           href="https://reactjs.org"
